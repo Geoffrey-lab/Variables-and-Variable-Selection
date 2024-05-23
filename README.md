@@ -10,6 +10,7 @@ This repository contains a Jupyter notebook focused on the concepts of variables
 - **Dummy Variable Encoding**: Convert categorical variables into dummy/indicator variables to be used in modeling.
 - **Correlation Analysis**: Analyze the relationships between variables using a correlation matrix.
 - **Linear Regression Model**: Split the data into training and testing sets, fit a linear regression model, and evaluate its performance.
+- **Multiple Linear Regression Analysis After Variable selection**
 
 ## Notebook Highlights
 
